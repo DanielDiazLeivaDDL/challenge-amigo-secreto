@@ -1,1 +1,1 @@
-<h1>Challenge amgo secreto</h1>
+<h1>Challenge amigo secreto</h1>
