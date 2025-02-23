@@ -1,4 +1,3 @@
 <h1 align="center"><strong>Challenge amigo secreto</h1>
-![banner](https://github.com/DanielDiazLeivaDDL/challenge-amigo-secreto/blob/main/assets/banner.png?raw=true)
-
+![banner](https://github.com/user-attachments/assets/76dbb69d-dcfe-42d2-bd4f-e93f931bac48)
 
