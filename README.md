@@ -55,6 +55,10 @@
     <li><strong>Ingreso de números:</strong> Se muestra una alerta si el valor ingresado es únicamente numérico.</li>
   </ul>
 
+  <h2>URL para probar</h2>
+  <p>A continuacion la direccion para probar inmediatamente la aplicacion:</p>
+  <p> </p>
+  <p>URL  : </p>(https://danieldiazleivaddl.github.io/challenge-amigo-secreto/)
 
 
   <hr>
