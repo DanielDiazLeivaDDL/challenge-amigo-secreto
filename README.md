@@ -39,20 +39,25 @@
     <li>
       <strong>Agregar nombres:</strong>
       <ul>
+          ![image](https://github.com/user-attachments/assets/a6c3ac89-66e4-4427-b688-c4b1ceeda05b)
         <li>Ingresa un nombre en el campo de texto que dice "Escribe un nombre".</li>
         <li>Haz clic en el botón <strong>Añadir</strong> para registrar el nombre.</li>
         <li>Los nombres se mostrarán en la lista visible de amigos.</li>
+        ![captura1](https://github.com/user-attachments/assets/fdb5146e-62b8-4413-9877-3033cdea49dc)
       </ul>
     </li>
     <li>
       <strong>Realizar el sorteo:</strong> Una vez que hayas ingresado todos los nombres, haz clic en el botón <strong>Sortear amigo</strong> para seleccionar un nombre aleatorio de la lista.
     </li>
+        ![captura2](https://github.com/user-attachments/assets/be30f5c8-b813-41fb-bcbd-814d3058c8ac)
   </ol>
 
   <h2>Validaciones Implementadas</h2>
   <ul>
     <li><strong>Campo vacío:</strong> Se muestra una alerta si el campo de texto está vacío.</li>
+      ![image](https://github.com/user-attachments/assets/a08f9044-8f67-4ff5-9462-1184f11b3dde)
     <li><strong>Ingreso de números:</strong> Se muestra una alerta si el valor ingresado es únicamente numérico.</li>
+      ![image](https://github.com/user-attachments/assets/3228bb9c-bbb0-4aa0-a1a1-0e65a04d1a46)
   </ul>
 
 
