@@ -39,7 +39,7 @@
     <li>
       <strong>Agregar nombres:</strong>
       <ul>
-          ![image](https://github.com/user-attachments/assets/a6c3ac89-66e4-4427-b688-c4b1ceeda05b)
+![image](https://github.com/user-attachments/assets/a6c3ac89-66e4-4427-b688-c4b1ceeda05b)
         <li>Ingresa un nombre en el campo de texto que dice "Escribe un nombre".</li>
         <li>Haz clic en el botón <strong>Añadir</strong> para registrar el nombre.</li>
         <li>Los nombres se mostrarán en la lista visible de amigos.</li>
